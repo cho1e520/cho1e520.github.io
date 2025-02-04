@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>test</title><link>https://cho1e520.github.io</link><description>bro以为自己是超人</description><copyright>test</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/196629515?v=4</url><title>avatar</title><link>https://cho1e520.github.io</link></image><lastBuildDate>Mon, 03 Feb 2025 11:04:14 +0000</lastBuildDate><managingEditor>test</managingEditor><ttl>60</ttl><webMaster>test</webMaster><item><title>A test</title><link>https://cho1e520.github.io/post/A%20test.html</link><description>1
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>test</title><link>https://cho1e520.github.io</link><description>bro以为自己是超人</description><copyright>test</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/196629515?v=4</url><title>avatar</title><link>https://cho1e520.github.io</link></image><lastBuildDate>Tue, 04 Feb 2025 03:08:59 +0000</lastBuildDate><managingEditor>test</managingEditor><ttl>60</ttl><webMaster>test</webMaster><item><title>寒假E听说答案</title><link>https://cho1e520.github.io/post/han-jia-E-ting-shuo-da-an.html</link><description>#### 第一套 ####
+
+1.听说信息
+· Simon likes them.
+· She likes cartoon movies.
+· Tomorrow is Tuesday.
+· They will meet at Mary’s house.
+· It is Good Teacher.
+· They will meet at two o'clock.
+
+2.回答问题
+· Bob went to the movie theater last Saturday.
+· He went there by taxi.
+· He found her in a clothes shop.
+· It was pink.
+
+3.信息转述
+· Gina has some problems. Her favorite subject was English. But when she became a student in Grade 8, she began to have difficulties learning. Sometimes she couldn't follow the teachers in class. She spent more time studying and gave up some of her hobbies, such as watching movies and playing the guitar. She is busy and unhappy now.
+
+4.询问信息
+· How long do you spend studying every day?
+· Do you want to tell your parents about your problems?。</description><guid isPermaLink="true">https://cho1e520.github.io/post/han-jia-E-ting-shuo-da-an.html</guid><pubDate>Tue, 04 Feb 2025 03:00:46 +0000</pubDate></item><item><title>A test</title><link>https://cho1e520.github.io/post/A%20test.html</link><description>1
 a
 !
 **#**。</description><guid isPermaLink="true">https://cho1e520.github.io/post/A%20test.html</guid><pubDate>Mon, 03 Feb 2025 10:59:35 +0000</pubDate></item></channel></rss>
